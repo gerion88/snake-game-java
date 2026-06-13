@@ -18,7 +18,7 @@ This project helped me better understand Swing rendering, keyboard events,
 collections, coordinate-based movement, timers, resource loading, audio, and
 basic game-loop logic.
 
-Source code: [ADD GITHUB LINK]
+Source code: https://github.com/gerion88/snake-game-java
 
 Next, I plan to continue improving my Java skills and build more small projects.
 
