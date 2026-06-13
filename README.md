@@ -65,7 +65,17 @@ SnakeGame/
 
 ## Screenshots
 
-Gameplay screenshots are stored in `docs/screenshots`.
+### Start Screen
+
+![Snake Game start screen](docs/screenshots/start-screen.png)
+
+### Gameplay
+
+![Snake Game gameplay](docs/screenshots/gameplay.png)
+
+### Game Over
+
+![Snake Game game-over screen](docs/screenshots/game-over.png)
 
 ## What I Practised
 
